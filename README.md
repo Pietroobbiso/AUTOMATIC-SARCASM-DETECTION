@@ -25,8 +25,4 @@ The table below shows the best results in terms of train accuracy and test accur
 
 ![alt text](https://user-images.githubusercontent.com/57104110/136663223-c8a5746c-1406-4eed-af1e-b6c2b4a44a8d.png)
 
-In terms of F1-score, the following plot gives an insight regarding each model:
-
-![alt text](https://user-images.githubusercontent.com/57104110/136663259-3df65918-c2f7-453d-a1fe-976b4557fa67.png)
-
 
