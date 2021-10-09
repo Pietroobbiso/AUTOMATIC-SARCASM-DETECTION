@@ -8,4 +8,4 @@ and a series of ML classifiers were chosen as candidate models. Performances of 
 
 SARCASTIC HEADLINES        | NON-SARCASTIC HEADLINES
 :-------------------------:|:-------------------------:
-![] (https://user-images.githubusercontent.com/57104110/136662974-3570dc52-722a-4db7-b1d5-0f6b48762c8b.png) | ![](https://user-images.githubusercontent.com/57104110/136662980-1afa1654-7061-42c8-b644-07aef8fb2629.png)
+![](https://user-images.githubusercontent.com/57104110/136662974-3570dc52-722a-4db7-b1d5-0f6b48762c8b.png) | ![](https://user-images.githubusercontent.com/57104110/136662980-1afa1654-7061-42c8-b644-07aef8fb2629.png)
